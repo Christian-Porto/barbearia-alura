@@ -1,4 +1,4 @@
-# barbearia-alura
+# Barbearia Alura
 status: Concluido ✅
 
 ## Linguagens utilizadas:
